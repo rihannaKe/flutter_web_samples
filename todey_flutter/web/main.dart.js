@@ -39177,7 +39177,7 @@ M:function(a){var u=null,t=L.h0
 return new T.ws(new S.p7(new D.Hi(u),u),new F.Jr(u,u,new F.BQ(),T.Z1(),[t]),u,[t])}}
 F.BQ.prototype={
 $1:function(a){var u={func:1,ret:-1}
-return new L.h0(H.d([new Q.h_("Buy milk "),new Q.h_("Buy eggs "),new Q.h_("Buy suguar ")],[Q.h_]),new R.a1(H.d([],[u]),[u]))}}
+return new L.h0(H.d([new Q.h_("Impara Dart "),new Q.h_("Impara Flutter "),new Q.h_("Compila Flutter for web ")],[Q.h_]),new R.a1(H.d([],[u]),[u]))}}
 Q.h_.prototype={
 gaj:function(a){return this.a}}
 L.h0.prototype={}
