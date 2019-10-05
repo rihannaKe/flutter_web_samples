@@ -4,9 +4,9 @@ import 'dart:collection';
 
 class TaskData extends ChangeNotifier {
   List<Task> _tasks = [
-    Task(name: 'Buy milk ' ),
-    Task(name: 'Buy eggs ' ),
-    Task(name: 'Buy suguar ' ),
+    Task(name: 'Impara Dart ' ),
+    Task(name: 'Impara Flutter ' ),
+    Task(name: 'Compila Flutter for web ' ),
   ];
 
   /*List<Task> get tasks {
