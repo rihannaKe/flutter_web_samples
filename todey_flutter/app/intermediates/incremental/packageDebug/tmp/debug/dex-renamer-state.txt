@@ -1,4 +1,0 @@
-#Mon Sep 02 18:38:45 CEST 2019
-base.0=/Users/macbookpro/Desktop/appbrewery/todey_flutter/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
