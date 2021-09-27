@@ -1,1 +1,1 @@
-# These are samples of web apps made by Flutter
+# These are samples of web apps made with Flutter
